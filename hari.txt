@@ -1,1 +1,2 @@
 malam hari = senin
+siang hari = senin
